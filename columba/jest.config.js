@@ -3,5 +3,6 @@ module.exports = {
     '<rootDir>/apps/demo-app',
     '<rootDir>/apps/api',
     '<rootDir>/apps/web',
+    '<rootDir>/apps/static',
   ],
 };
